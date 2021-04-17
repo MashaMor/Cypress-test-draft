@@ -1,0 +1,9 @@
+{
+  "loginForm": ".wrapper",
+  "header": "h1",
+  "logo": "#logomini",
+  "username": "input[type='text']",
+  "password": "input[type='password']",
+  "loginBtn": "input[type='submit']",
+  "errorMessage": ".help-block"
+}

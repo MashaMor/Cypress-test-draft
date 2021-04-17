@@ -1,0 +1,10 @@
+{
+  "title": "Login",
+  "header": "QA Portal Login",
+  "loginBtnText": "Login",
+  "usernamePlaceholder": "Username",
+  "passwordPlaceholder": "Password",
+  "errorMessagePassword": "Please enter your password.",
+  "errorMessageUsername": "Please enter username.",
+  "errorMessageInvalidValue": "No account found with that username."
+}
